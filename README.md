@@ -1,4 +1,4 @@
-# IdeaNation CoFounder 🚀
+# CoFounder 🚀
 
 **Your AI CoFounder: Turn raw ideas into an operational startup in seconds.**
 
